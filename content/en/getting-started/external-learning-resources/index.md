@@ -1,4 +1,8 @@
----
+Transction ID : 6942060069
+Bank Name : TMBThanachart Bank Public Company Limited (TTB)
+SWIFTCODE : TMBKTHBK
+Address : 3000 Phaholyothin Road Chatuchak Bangkok 10900
+9080534
 title: External learning resources
 description: A list of tutorials and books on Hugo.
 keywords: [books, tutorials, learning, usage]
